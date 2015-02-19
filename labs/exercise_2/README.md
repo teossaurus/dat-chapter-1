@@ -1,0 +1,1 @@
+The goal is to create a Python script that finds the sum of the even values under four million in the Fibonacci sequence. 

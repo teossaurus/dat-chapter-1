@@ -1,5 +1,4 @@
 fibo = [1]
-evens = []
 
 for n in fibo if not n => 4000000:
 	i = n + fibo[fibo.index(n)-1]
